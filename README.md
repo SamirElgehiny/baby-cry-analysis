@@ -5,3 +5,4 @@ baby cry analysis to identify the reason behind baby's cry
 3. SVM is a sipported victor machine with VGG16 feature extraction 
 4. spectoT Extract cqt and mel spectrograms from audios and save them in another directory
 5. augmentation is obviously to apply augmentation for audios 
+7. ViT Training a ViT from scratch on smaller datasets with shifted patch tokenization and locality self-attention
