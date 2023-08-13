@@ -1,8 +1,22 @@
 # baby-cry-analysis
-baby cry analysis to identify the reason behind baby's cry
-1. CNNmc is a Multi input CNN with the 2 features mel spectrogram and cqt spectrogram
-2. CNNfm is a Multi input CNN with the 2 features mel spectrogram and mfcc
-3. SVM is a sipported victor machine with VGG16 feature extraction 
-4. spectoT Extract cqt and mel spectrograms from audios and save them in another directory
-5. augmentation is obviously to apply augmentation for audios 
-7. ViT Training a ViT from scratch on smaller datasets with shifted patch tokenization and locality self-attention
+Overview
+
+Welcome to the GitHub repository dedicated to the research paper titled 'Towards a More Personalized Approach to Infant Care: Using Machine Learning to Classify Baby Cries' authored by Samir Ashraf, Dalia Sobhy, and Noha S. Tawfik. This repository contains the code and resources used in the research, aiming to explore a more personalized approach to understanding the reasons behind a baby's cry through machine learning techniques.
+
+Project Structure
+
+CNNmc: Implementation of a Multi-Input Convolutional Neural Network (CNN) using Mel spectrogram and CQT spectrogram features.
+CNNfm: Implementation of a Multi-Input CNN using Mel spectrogram and MFCC features.
+SVM: Support Vector Machine (SVM) with VGG16 feature extraction for classification.
+spectoT: Code to preprocess audio files and extract CQT and Mel spectrograms.
+augmentation: Audio augmentation techniques to enhance dataset diversity.
+ViT: Training a Vision Transformer (ViT) from scratch on smaller datasets with specialized attention mechanisms.
+How to Use
+
+Data Preparation: Prepare your baby cry audio dataset. The spectoT folder assists in extracting necessary spectrogram features.
+Model Selection: Choose the appropriate model from CNNmc, CNNfm, SVM, or ViT directories for training and evaluating models.
+Augmentation: Utilize the augmentation section to apply augmentation methods to audio files.
+Results and Analysis: Analyze model performance and insights obtained for personalized infant care.
+Research Paper
+
+This repository aligns with the research paper 'Towards a More Personalized Approach to Infant Care: Using Machine Learning to Classify Baby Cries' authored by Samir Ashraf, Dalia Sobhy, and Noha S. Tawfik. Please cite this repository and the paper if you find the resources helpful for your work.
