@@ -1,4 +1,4 @@
-# Baby Cry Analysis for Research Pape
+# Baby Cry Analysis for Research Paper
 
 ## Overview
 
