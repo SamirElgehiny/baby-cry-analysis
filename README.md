@@ -2,7 +2,8 @@
 
 ## Overview
 
-Welcome to the GitHub repository dedicated to the research paper titled '**Towards a More Personalized Approach to Infant Care: Using Machine Learning to Classify Baby Cries**' authored by Samir Ashraf, Dalia Sobhy, and Noha S. Tawfik. This repository contains the code and resources used in the research, aiming to explore a more personalized approach to understanding the reasons behind a baby's cry through machine learning techniques.
+Welcome to the GitHub repository dedicated to the research paper titled '**Baby Cry Classification using Enhanced
+Transformer-based Architecture**' authored by Samir Ashraf, Dalia Sobhy, and Noha S. Tawfik. This repository contains the code and resources used in the research, aiming to explore a more personalized approach to understanding the reasons behind a baby's cry through machine learning techniques.
 
 ## Project Structure
 
