@@ -2,8 +2,7 @@
 
 ## Overview
 
-Welcome to the GitHub repository dedicated to the research paper titled '**Baby Cry Classification using Enhanced
-Transformer-based Architecture**' authored by Samir Ashraf, Dalia Sobhy, and Noha S. Tawfik. This repository contains the code and resources used in the research, aiming to explore a more personalized approach to understanding the reasons behind a baby's cry through machine learning techniques.
+Welcome to the GitHub repository dedicated to the research paper titled '**Baby Cry Classification using Enhanced Transformer-based Architecture**' authored by Samir Ashraf, Dalia Sobhy, and Noha S. Tawfik. This repository contains the code and resources used in the research, aiming to explore a more personalized approach to understanding the reasons behind a baby's cry through machine learning techniques.
 
 ## Project Structure
 
@@ -31,7 +30,7 @@ Transformer-based Architecture**' authored by Samir Ashraf, Dalia Sobhy, and Noh
 
 ## Research Paper
 
-This repository aligns with the research paper '**Towards a More Personalized Approach to Infant Care: Using Machine Learning to Classify Baby Cries**' authored by Samir Ashraf, Noha S. Tawfik and Dalia Sobhy. Please cite this repository and the paper if you find the resources helpful for your work.
+This repository aligns with the research paper '**Baby Cry Classification using Enhanced Transformer-based Architecture**' authored by Samir Ashraf, Noha S. Tawfik and Dalia Sobhy. Please cite this repository and the paper if you find the resources helpful for your work.
 
 
 
