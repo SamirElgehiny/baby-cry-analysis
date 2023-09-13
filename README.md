@@ -28,6 +28,14 @@ Welcome to the GitHub repository dedicated to the research paper titled '**Under
 
 4. **Results and Analysis**: Analyze model performance and insights obtained for personalized infant care.
 
+   Inside the `ViT` directory, you'll find two options for ViT models:
+
+- **Vanilla ViT**: The Vanilla Vision Transformer model can be executed by setting `run_vanilla_vit = True` in the code.
+
+- **Modified ViT**: The Modified Vision Transformer model, which incorporates shifted patch tokenization and locality self-attention, can be executed by setting `run_vanilla_vit = False`.
+
+Please note that the Modified ViT has been our best-performing model in our experiments, delivering superior results.
+
 ## Research Paper
 
 This repository aligns with the research paper '**Understanding Baby Cry Sounds: A Comparative Study of Convolutional Neural Networks and Vision Transformers**' authored by Samir Ashraf, Noha S. Tawfik and Dalia Sobhy. Please cite this repository and the paper if you find the resources helpful for your work.
