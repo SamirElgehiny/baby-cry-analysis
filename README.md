@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the GitHub repository dedicated to the research paper titled '**Understanding Baby Cry Sounds: A Comparative Study of Convolutional Neural Networks and Vision Transformers**' authored by Samir Ashraf, Noha S. Tawfik and Dalia Sobhy. This repository contains the code and resources used in the research, aiming to explore a more personalized approach to understanding the reasons behind a baby's cry through machine learning techniques.
+Welcome to the GitHub repository dedicated to the research paper titled '**Evaluating Convolutional Neural Networks and Vision Transformers for Baby Cry Sound Analysis**' authored by Samir Ashraf, Noha S. Tawfik and Dalia Sobhy. This repository contains the code and resources used in the research, aiming to explore a more personalized approach to understanding the reasons behind a baby's cry through machine learning techniques.
 
 ## Project Structure
 
@@ -38,7 +38,7 @@ Please note that the Modified ViT has been our best-performing model in our expe
 
 ## Research Paper
 
-This repository aligns with the research paper '**Understanding Baby Cry Sounds: A Comparative Study of Convolutional Neural Networks and Vision Transformers**' authored by Samir Ashraf, Noha S. Tawfik and Dalia Sobhy. Please cite this repository and the paper if you find the resources helpful for your work.
+This repository aligns with the research paper '**Evaluating Convolutional Neural Networks and Vision Transformers for Baby Cry Sound Analysis**' authored by Samir Ashraf, Noha S. Tawfik and Dalia Sobhy. Please cite this repository and the paper if you find the resources helpful for your work.
 
 
 
